@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/viktorchen/Desktop/csharp/csharp.csproj",
-      "projectName": "csharp",
-      "projectPath": "/Users/viktorchen/Desktop/csharp/csharp.csproj",
+      "projectUniqueName": "/Users/viktorchen/Desktop/csharp/Example001_HelloConsole/Example001_HelloConsole.csproj",
+      "projectName": "Example001_HelloConsole",
+      "projectPath": "/Users/viktorchen/Desktop/csharp/Example001_HelloConsole/Example001_HelloConsole.csproj",
       "packagesPath": "/Users/viktorchen/.nuget/packages/",
-      "outputPath": "/Users/viktorchen/Desktop/csharp/obj/",
+      "outputPath": "/Users/viktorchen/Desktop/csharp/Example001_HelloConsole/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/viktorchen/.nuget/NuGet/NuGet.Config"
